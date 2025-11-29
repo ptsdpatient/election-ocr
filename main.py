@@ -9,7 +9,7 @@ from tkinter import ttk, filedialog, messagebox
 import ttkbootstrap as tb
 
 model = NANONETSOCR()
-model.set_token('c03e427e-96d6-11f0-bbac-364ad0a655a4')
+model.set_token('')
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 

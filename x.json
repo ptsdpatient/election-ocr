@@ -1,0 +1,422 @@
+[
+  {
+    "name": "church",
+    "type": STATIC,
+    "position": {
+      "x": -13.8996,
+      "y": 0.0000,
+      "z": -6.8394
+    },
+    "rotation": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000,
+      "w": 1.0000
+    },
+    "size": {
+      "x": 1.0000,
+      "y": 1.0000,
+      "z": 1.0000
+    },
+    "animations": [
+      
+    ],
+    "isRoom": false,
+    "isEnemy": false,
+    "walls": [
+      
+    ],
+    "entrances": [
+      
+    ],
+    "animations": [
+      
+    ],
+    "attackOffset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "behaveRange": 0.0,
+    "attackRange": 0.0,
+    "fireRate": 100.0,
+    "damage": 0.0,
+    "behaveIfCloseToPlayer": false,
+    "attackAnimation": [
+      
+    ],
+    "interactible": false,
+    "interactType": [
+      
+    ],
+    "offset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "forwardDirection": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "padding": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "objectBehaviorType": Static,
+    "interactType": [
+      
+    ]
+  },
+  {
+    "name": "church",
+    "type": STATIC,
+    "position": {
+      "x": 13.4583,
+      "y": 0.0000,
+      "z": -3.5300
+    },
+    "rotation": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000,
+      "w": 1.0000
+    },
+    "size": {
+      "x": 1.0000,
+      "y": 1.0000,
+      "z": 1.0000
+    },
+    "animations": [
+      
+    ],
+    "isRoom": false,
+    "isEnemy": false,
+    "walls": [
+      
+    ],
+    "entrances": [
+      
+    ],
+    "animations": [
+      
+    ],
+    "attackOffset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "behaveRange": 0.0,
+    "attackRange": 0.0,
+    "fireRate": 100.0,
+    "damage": 0.0,
+    "behaveIfCloseToPlayer": false,
+    "attackAnimation": [
+      
+    ],
+    "interactible": false,
+    "interactType": [
+      
+    ],
+    "offset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "forwardDirection": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "padding": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "objectBehaviorType": Static,
+    "interactType": [
+      
+    ]
+  },
+  {
+    "name": "church",
+    "type": STATIC,
+    "position": {
+      "x": 9.4870,
+      "y": 0.0000,
+      "z": -14.5614
+    },
+    "rotation": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000,
+      "w": 1.0000
+    },
+    "size": {
+      "x": 1.0000,
+      "y": 1.0000,
+      "z": 1.0000
+    },
+    "animations": [
+      
+    ],
+    "isRoom": false,
+    "isEnemy": false,
+    "walls": [
+      
+    ],
+    "entrances": [
+      
+    ],
+    "animations": [
+      
+    ],
+    "attackOffset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "behaveRange": 0.0,
+    "attackRange": 0.0,
+    "fireRate": 100.0,
+    "damage": 0.0,
+    "behaveIfCloseToPlayer": false,
+    "attackAnimation": [
+      
+    ],
+    "interactible": false,
+    "interactType": [
+      
+    ],
+    "offset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "forwardDirection": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "padding": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "objectBehaviorType": Static,
+    "interactType": [
+      
+    ]
+  },
+  {
+    "name": "church",
+    "type": STATIC,
+    "position": {
+      "x": -19.4153,
+      "y": 0.0000,
+      "z": -20.7389
+    },
+    "rotation": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000,
+      "w": 1.0000
+    },
+    "size": {
+      "x": 1.0000,
+      "y": 1.0000,
+      "z": 1.0000
+    },
+    "animations": [
+      
+    ],
+    "isRoom": false,
+    "isEnemy": false,
+    "walls": [
+      
+    ],
+    "entrances": [
+      
+    ],
+    "animations": [
+      
+    ],
+    "attackOffset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "behaveRange": 0.0,
+    "attackRange": 0.0,
+    "fireRate": 100.0,
+    "damage": 0.0,
+    "behaveIfCloseToPlayer": false,
+    "attackAnimation": [
+      
+    ],
+    "interactible": false,
+    "interactType": [
+      
+    ],
+    "offset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "forwardDirection": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "padding": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "objectBehaviorType": Static,
+    "interactType": [
+      
+    ]
+  },
+  {
+    "name": "bishop",
+    "type": STATIC,
+    "position": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "rotation": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000,
+      "w": 1.0000
+    },
+    "size": {
+      "x": 1.0000,
+      "y": 1.0000,
+      "z": 1.0000
+    },
+    "animations": [
+      
+    ],
+    "isRoom": false,
+    "isEnemy": false,
+    "walls": [
+      
+    ],
+    "entrances": [
+      
+    ],
+    "animations": [
+      
+    ],
+    "attackOffset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "behaveRange": 0.0,
+    "attackRange": 0.0,
+    "fireRate": 100.0,
+    "damage": 0.0,
+    "behaveIfCloseToPlayer": false,
+    "attackAnimation": [
+      
+    ],
+    "interactible": false,
+    "interactType": [
+      
+    ],
+    "offset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "forwardDirection": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "padding": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "objectBehaviorType": Static,
+    "interactType": [
+      
+    ]
+  },
+  {
+    "name": "ground",
+    "type": TARGET,
+    "position": {
+      "x": -10.0000,
+      "y": -2.0000,
+      "z": 0.0000
+    },
+    "rotation": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000,
+      "w": 1.0000
+    },
+    "size": {
+      "x": 1.0000,
+      "y": 1.0000,
+      "z": 1.0000
+    },
+    "animations": [
+      
+    ],
+    "isRoom": false,
+    "isEnemy": false,
+    "walls": [
+      
+    ],
+    "entrances": [
+      
+    ],
+    "animations": [
+      
+    ],
+    "attackOffset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "behaveRange": 0.0,
+    "attackRange": 0.0,
+    "fireRate": 100.0,
+    "damage": 0.0,
+    "behaveIfCloseToPlayer": false,
+    "attackAnimation": [
+      
+    ],
+    "interactible": false,
+    "interactType": [
+      
+    ],
+    "offset": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "forwardDirection": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "padding": {
+      "x": 0.0000,
+      "y": 0.0000,
+      "z": 0.0000
+    },
+    "objectBehaviorType": Static,
+    "interactType": [
+      
+    ]
+  }
+]
